@@ -17,34 +17,34 @@ Automatic attendance logging to a database or file.
 ### Prerequisites
 Python 3.x installed.
 
-Required Python packages (install via pip):
+#### Required Python packages (install via pip):
 
-opencv-python
+- opencv-python
 
-numpy
+- numpy
 
-face_recognition
+- face_recognition
 
 Install the required packages using pip:
 
-pip install opencv-python numpy face_recognition
+   > pip install opencv-python numpy face_recognition
 
 # Usage
 1. Clone the repository:
 
-   git clone https://github.com/rik634/Automated-Attendance-System.git
+   > git clone https://github.com/rik634/Automated-Attendance-System.git
 
 2. Navigate to the project directory:
 
-   cd automated-attendance-system
+   > cd automated-attendance-system
 
 3. Run the automated attendance system:
 
-   python attendance_system.py
+   > python attendance_system.py
 
 # Technologies Used
-Python
+- Python
 
-OpenCV (for image processing)
+- OpenCV (for image processing)
 
-face_recognition library
+- face_recognition library
