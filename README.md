@@ -32,15 +32,15 @@ pip install opencv-python numpy face_recognition
 # Usage
 1. Clone the repository:
 
-git clone https://github.com/rik634/Automated-Attendance-System.git
+   git clone https://github.com/rik634/Automated-Attendance-System.git
 
 2. Navigate to the project directory:
 
-cd automated-attendance-system
+   cd automated-attendance-system
 
 3. Run the automated attendance system:
 
-python attendance_system.py
+   python attendance_system.py
 
 # Technologies Used
 Python
